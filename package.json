@@ -1,0 +1,35 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "更新vuepress主题",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maybe-Hao/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maybe-Hao/blog/issues"
+  },
+  "homepage": "https://github.com/Maybe-Hao/blog#readme",
+  "devDependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5",
+    "vuepress": "^1.9.7",
+    "vuepress-plugin-cursor-effects": "^1.1.2",
+    "vuepress-plugin-go-top": "^1.0.4",
+    "vuepress-plugin-meting": "^0.3.1",
+    "vuepress-theme-reco": "^1.6.11"
+  },
+  "dependencies": {
+    "vuepress-plugin-live2d": "^0.0.7"
+  }
+}
