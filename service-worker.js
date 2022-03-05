@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a326e5ddffab27345c7ebb9af50ac78a"
+    "revision": "e83ade8d89bd6f0ec268d1b0c062ce40"
   },
   {
     "url": "assets/avatar/脸红可爱小女孩 思考 好看动漫女孩4k壁纸3840x2160_彼岸图网.jpg",
@@ -738,8 +738,8 @@ self.__precacheManifest = [
     "revision": "5b1fda13a6bb160a6edec5f9c47aa732"
   },
   {
-    "url": "assets/js/app.04b0801e.js",
-    "revision": "b3710e4cc36f0f13ad03233799cf9aff"
+    "url": "assets/js/app.ad8dbe3b.js",
+    "revision": "ae36ec738742e288ebb0977fcfa0d100"
   },
   {
     "url": "avatar.png",
@@ -747,79 +747,79 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/other/guide.html",
-    "revision": "9ed1af35d278810a74103af03671f75f"
+    "revision": "e7fd8c8a28f813793570a0f191ab0416"
   },
   {
     "url": "blogs/前端/front.html",
-    "revision": "05a5be88fe25ebe3561232614710d99f"
+    "revision": "388d5cff9bfdb0f5eb8692a461e9892f"
   },
   {
     "url": "blogs/前端/Nodejs安装问题心得.html",
-    "revision": "2f535ee36b32e3fa3a98b8aa15d13189"
+    "revision": "913dd77161a6426711336028538bc220"
   },
   {
     "url": "blogs/前端/Vue.html",
-    "revision": "2dd39b5c17ec4c25fdce955b06f39276"
+    "revision": "de22e617f7049ebbd66564b13cc44c3d"
   },
   {
     "url": "blogs/前端/vuepress.html",
-    "revision": "469ac9cc09a70c22bdb28f1425fab01b"
+    "revision": "39fab42081c8a32e1f9253ecaf9abc91"
   },
   {
     "url": "blogs/后端/Spring系列/Redis.html",
-    "revision": "eb2483481f1695c32d1090355cb95288"
+    "revision": "be28e76c72e9a96bf04a16dad15bcd99"
   },
   {
     "url": "blogs/后端/Spring系列/Spring.html",
-    "revision": "ebd6bdf35157e2140a766f19edf34508"
+    "revision": "a8ad09dcf72c1fd698ba6d5bcdbce7b4"
   },
   {
     "url": "blogs/后端/Spring系列/SpringBoot.html",
-    "revision": "24697272595b13486ade7fbe1662320b"
+    "revision": "744a5a02262808611d4a5b4436becf6c"
   },
   {
     "url": "blogs/后端/Spring系列/SpringMVC.html",
-    "revision": "55b8fc4e9c13e299a2d8f9871e1be8c9"
+    "revision": "ee0f6025397ca8fa076233fbd8c48dcf"
   },
   {
     "url": "blogs/后端/Spring系列/知识点.html",
-    "revision": "17a1bb021347d90782a7b7737c0c1129"
+    "revision": "900529314111e9518eae0a4912d04c13"
   },
   {
     "url": "blogs/算法以及数据结构/LeetCode笔记本.html",
-    "revision": "6dd80c67b4e0bd9b3f579828383dce5d"
+    "revision": "960240511a6c2d49d02f0736033308a7"
   },
   {
     "url": "categories/index.html",
-    "revision": "8b15aacda82f7e022b534332064e72ac"
+    "revision": "66a9c3323a1d199d9c7bf52996bf6588"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "6367b68feed1ab462d45dc2d6fb845fa"
+    "revision": "46fbb58ffd618aaccb422ac20613b817"
   },
   {
     "url": "categories/后端/index.html",
-    "revision": "bfbd098d1adb5889b72a372e5cfb9c17"
+    "revision": "47faca78bb1cef98421f65a10a2ad5ba"
   },
   {
     "url": "categories/算法/index.html",
-    "revision": "8f622e52bd41534c1e7fd4dba84cd176"
+    "revision": "7bccd3e01fb09006c51e6f22cba52dee"
   },
   {
     "url": "docs/theme-reco/api.html",
-    "revision": "a30f1e27e48064c1d5c539e147509d1b"
+    "revision": "a946423aff237639c35dbe46bb62ad85"
   },
   {
     "url": "docs/theme-reco/index.html",
-    "revision": "3f225e59ecd3a4fbd4b88f5dacbc83e1"
+    "revision": "6d2fec03694d2aeac6c4bcf7a863a5f5"
   },
   {
     "url": "docs/theme-reco/plugin.html",
-    "revision": "fc5172bafef145bd04e1557d042ac568"
+    "revision": "2a7e835d2000ae077cc2ecc4304cef49"
   },
   {
     "url": "docs/theme-reco/theme.html",
-    "revision": "6cf9f52b518ea0f4fb8cb7ca3ef215bd"
+    "revision": "270eedb622e0982fec4b449943eaa7d0"
   },
   {
     "url": "hero.png",
@@ -827,7 +827,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "8031deadb8ce4c79cb44562010139e27"
+    "revision": "83caee9fb7057a64040c96fc055ea4e0"
   },
   {
     "url": "logo.png",
@@ -835,55 +835,59 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/algorithm/index.html",
-    "revision": "9556430ac8959833b086ad2853c7e747"
+    "revision": "6c7d89b8ab3155c8733444bac569e1d5"
   },
   {
     "url": "tag/BSX/index.html",
-    "revision": "4b11599cde4021fca3ff1af1ac094972"
+    "revision": "3e6a4b9d41a56dba43c0c0f2e4244da7"
   },
   {
     "url": "tag/index.html",
-    "revision": "d947ee6a3c0b37594511d4a52c35d16d"
+    "revision": "803d2bee4de45ae9b2b9043fae0721fa"
   },
   {
     "url": "tag/LeetCode/index.html",
-    "revision": "220417e8e8a2550aab76d7289beeb69c"
+    "revision": "dd68b24d03571410d343005d7083fc76"
   },
   {
     "url": "tag/Nodejs/index.html",
-    "revision": "67d5158395b9f75405ee815043b1a1e6"
+    "revision": "eb5c6769f9a0506470b3694c74f8937e"
   },
   {
     "url": "tag/rearend/index.html",
-    "revision": "c7c3f3a9cd446815601ea3b1d7c4b356"
+    "revision": "644826da3bb2224e0823fcfe27e29b7d"
   },
   {
     "url": "tag/Redis/index.html",
-    "revision": "3eb45093792d11ec567d3b4b2dbc523c"
+    "revision": "75135050f1c262a749c2a7ae8a4ca29f"
   },
   {
     "url": "tag/Spring/index.html",
-    "revision": "7c2518d84bc494fe7fbc1a4a45bd515c"
+    "revision": "4f4887d2b500d038bebe57a78b6c93a6"
   },
   {
     "url": "tag/SpringBoot/index.html",
-    "revision": "0cacc9dbe582bfc97f3245227c790639"
+    "revision": "578d94c1f291a3324c56761fa2cfb277"
   },
   {
     "url": "tag/SpringMVC/index.html",
-    "revision": "9efd5090c06863cd68d58d61ff3674d0"
+    "revision": "7715b9555a3a22ca4ebcce7ae7ebd255"
   },
   {
     "url": "tag/Vue/index.html",
-    "revision": "a5afbe7b0f5a4a8588b5af89a11d0f72"
+    "revision": "0b3d8e15059aa4ee5ba88f00181fb3a4"
   },
   {
     "url": "tag/Vuepress/index.html",
-    "revision": "72a014b3819b3d48e2923bba478d8144"
+    "revision": "281295f84fa277c9784b8f90b57c475f"
   },
   {
     "url": "timeline/index.html",
-    "revision": "03779ee3ba7b9ad480e08d3d4a41cc69"
+    "revision": "bd46d20a4557c66c46cf3abbd517d782"
+  },
+  {
+    "url": "酥皮.jpg",
+    "revision": "e3e18614de3b0c656a372e3f1023585e"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
