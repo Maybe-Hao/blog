@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 我是小李浩
-tagline: A simple and beautiful vuepress blog theme.
+tagline: 我是可爱的小李浩，我觉得昆昆很可爱
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

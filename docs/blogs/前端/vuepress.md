@@ -500,10 +500,10 @@ module.exports = {
 ```
 :::
 ::: details theme/util/index.js
-<<< @/docs/.vuepress/theme/util/index.js
+
 :::
 ::: details theme/layouts/Layout.vue
-<<< @/docs/.vuepress/theme/layouts/Layout.vue
+
 :::
 
 在`Layout.vue`文件中添加了这行代码实现全局配置
@@ -578,7 +578,6 @@ module.exports = {
 <img :src="$withBase('/assets/img/vuepress/创建deploy.yml文件.png')">
 <br>
 
-<<< @/.github/workflows/deploy.yml
 
 ### 生成令牌
 <br>
