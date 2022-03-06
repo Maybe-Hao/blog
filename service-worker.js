@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e83ade8d89bd6f0ec268d1b0c062ce40"
+    "revision": "0139ec8d92bb242bcfe5e22fdfaadd6e"
   },
   {
     "url": "assets/avatar/脸红可爱小女孩 思考 好看动漫女孩4k壁纸3840x2160_彼岸图网.jpg",
@@ -738,8 +738,8 @@ self.__precacheManifest = [
     "revision": "5b1fda13a6bb160a6edec5f9c47aa732"
   },
   {
-    "url": "assets/js/app.ad8dbe3b.js",
-    "revision": "ae36ec738742e288ebb0977fcfa0d100"
+    "url": "assets/js/app.1f6168f6.js",
+    "revision": "c156472e31cadfedb4a08adcb0d190ad"
   },
   {
     "url": "avatar.png",
@@ -747,87 +747,103 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/other/guide.html",
-    "revision": "e7fd8c8a28f813793570a0f191ab0416"
+    "revision": "1a7bb92d4ea0df13f7825b23a03b5cf1"
   },
   {
     "url": "blogs/前端/front.html",
-    "revision": "388d5cff9bfdb0f5eb8692a461e9892f"
+    "revision": "e1719639f92f359d165d29f9f3943421"
   },
   {
     "url": "blogs/前端/Nodejs安装问题心得.html",
-    "revision": "913dd77161a6426711336028538bc220"
+    "revision": "89e8d09257bc3673754445d8a2a47220"
   },
   {
     "url": "blogs/前端/Vue.html",
-    "revision": "de22e617f7049ebbd66564b13cc44c3d"
+    "revision": "ff2a61cbc060608c4aac069f9a504a08"
   },
   {
     "url": "blogs/前端/vuepress.html",
-    "revision": "39fab42081c8a32e1f9253ecaf9abc91"
+    "revision": "716a7b889d47ca911374ae28b1dc8ec9"
   },
   {
     "url": "blogs/后端/Spring系列/Redis.html",
-    "revision": "be28e76c72e9a96bf04a16dad15bcd99"
+    "revision": "43c8194fa9918fef7ae330a4809b2602"
   },
   {
     "url": "blogs/后端/Spring系列/Spring.html",
-    "revision": "a8ad09dcf72c1fd698ba6d5bcdbce7b4"
+    "revision": "06ab6e60b643ba3d010142397ca107cd"
   },
   {
     "url": "blogs/后端/Spring系列/SpringBoot.html",
-    "revision": "744a5a02262808611d4a5b4436becf6c"
+    "revision": "879d9c97074898bac03008e865d2fe61"
   },
   {
     "url": "blogs/后端/Spring系列/SpringMVC.html",
-    "revision": "ee0f6025397ca8fa076233fbd8c48dcf"
+    "revision": "3f12eabb509ac7cd045a0175979b1e60"
   },
   {
     "url": "blogs/后端/Spring系列/知识点.html",
-    "revision": "900529314111e9518eae0a4912d04c13"
+    "revision": "6f7a1f04c196cde2ec4993a63cf18bc8"
   },
   {
     "url": "blogs/算法以及数据结构/LeetCode笔记本.html",
-    "revision": "960240511a6c2d49d02f0736033308a7"
+    "revision": "e50ba23f35c4bab6be591cf6989e2585"
   },
   {
     "url": "categories/index.html",
-    "revision": "66a9c3323a1d199d9c7bf52996bf6588"
+    "revision": "dd4a99d7a532149f2112044e99090906"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "46fbb58ffd618aaccb422ac20613b817"
+    "revision": "810284831c5342b8b67abe2048eafa9a"
   },
   {
     "url": "categories/后端/index.html",
-    "revision": "47faca78bb1cef98421f65a10a2ad5ba"
+    "revision": "dca66b17d4ce8bf3e1ea465fa66d267f"
   },
   {
     "url": "categories/算法/index.html",
-    "revision": "7bccd3e01fb09006c51e6f22cba52dee"
+    "revision": "6894501a48aa82b7fcbf47a8705bd5c4"
   },
   {
     "url": "docs/theme-reco/api.html",
-    "revision": "a946423aff237639c35dbe46bb62ad85"
+    "revision": "8555948fe6f19edd74074b27169cdece"
   },
   {
     "url": "docs/theme-reco/index.html",
-    "revision": "6d2fec03694d2aeac6c4bcf7a863a5f5"
+    "revision": "e5e36275680ff246fc09ba327ec9df9f"
   },
   {
     "url": "docs/theme-reco/plugin.html",
-    "revision": "2a7e835d2000ae077cc2ecc4304cef49"
+    "revision": "d6672f99ce3a197342e9e1ff28ea268b"
   },
   {
     "url": "docs/theme-reco/theme.html",
-    "revision": "270eedb622e0982fec4b449943eaa7d0"
+    "revision": "757aeb54908b4f5482cdcd0edb3131fe"
   },
   {
     "url": "hero.png",
     "revision": "5367b9349d4e048235eeed50d9ef36df"
   },
   {
+    "url": "icons/1.png",
+    "revision": "214cb3c8efa095d247d21c6f01a00d99"
+  },
+  {
+    "url": "icons/2.png",
+    "revision": "2e6f427e0a60839f4fdc47864035ed47"
+  },
+  {
+    "url": "icons/3.png",
+    "revision": "3f2f3a3186baad7812d3c512fd8a6998"
+  },
+  {
+    "url": "icons/4.png",
+    "revision": "f8c0ab549ff6c13e64f673799a971a19"
+  },
+  {
     "url": "index.html",
-    "revision": "83caee9fb7057a64040c96fc055ea4e0"
+    "revision": "2b3ddfb4054eea4e8d4327abdc6a6040"
   },
   {
     "url": "logo.png",
@@ -835,55 +851,55 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/algorithm/index.html",
-    "revision": "6c7d89b8ab3155c8733444bac569e1d5"
+    "revision": "bd84066eb40025fb51c76970261d71b8"
   },
   {
     "url": "tag/BSX/index.html",
-    "revision": "3e6a4b9d41a56dba43c0c0f2e4244da7"
+    "revision": "3a4c65b98d289b5e0acf06342f170044"
   },
   {
     "url": "tag/index.html",
-    "revision": "803d2bee4de45ae9b2b9043fae0721fa"
+    "revision": "cd6e57dfbf27ce991c71e7580208c3b7"
   },
   {
     "url": "tag/LeetCode/index.html",
-    "revision": "dd68b24d03571410d343005d7083fc76"
+    "revision": "067cb1274277f0b80e72a827a1bd985f"
   },
   {
     "url": "tag/Nodejs/index.html",
-    "revision": "eb5c6769f9a0506470b3694c74f8937e"
+    "revision": "0e81dbf21466e10fd024c0b9079864f5"
   },
   {
     "url": "tag/rearend/index.html",
-    "revision": "644826da3bb2224e0823fcfe27e29b7d"
+    "revision": "c9e9c94ab58ec2c638709ba2dcbb8d02"
   },
   {
     "url": "tag/Redis/index.html",
-    "revision": "75135050f1c262a749c2a7ae8a4ca29f"
+    "revision": "4b1a24350d00a99b4ea831a76e3a0039"
   },
   {
     "url": "tag/Spring/index.html",
-    "revision": "4f4887d2b500d038bebe57a78b6c93a6"
+    "revision": "d8b56076f57b82a78eece62d0c9f95ff"
   },
   {
     "url": "tag/SpringBoot/index.html",
-    "revision": "578d94c1f291a3324c56761fa2cfb277"
+    "revision": "c52a5d94a6a67da6669febea9b68530e"
   },
   {
     "url": "tag/SpringMVC/index.html",
-    "revision": "7715b9555a3a22ca4ebcce7ae7ebd255"
+    "revision": "95060ea53c489e2206db55e307faad7f"
   },
   {
     "url": "tag/Vue/index.html",
-    "revision": "0b3d8e15059aa4ee5ba88f00181fb3a4"
+    "revision": "494b051df3cb0e0d572b8df9c6844712"
   },
   {
     "url": "tag/Vuepress/index.html",
-    "revision": "281295f84fa277c9784b8f90b57c475f"
+    "revision": "7beee33fae91812275c1cb1446948548"
   },
   {
     "url": "timeline/index.html",
-    "revision": "bd46d20a4557c66c46cf3abbd517d782"
+    "revision": "87913102ce2ab45ae90c2af9723ed895"
   },
   {
     "url": "酥皮.jpg",
