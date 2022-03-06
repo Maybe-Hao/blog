@@ -24,10 +24,10 @@ module.exports = {
       ],
       clean: true,
       messages: {
-        welcome: '欢迎来到可爱的小李浩的站点嗷~~',
-        home: '心里的花，我想要带你回家。',
-        theme: '好吧，希望你能喜欢我的小李浩哟。',
-        close: '你知道我喜欢吃什么吗？痴痴地望着你。'
+        welcome: '欢迎来到这个没人管的站点嗷~~',
+        home: '你随便逛。',
+        theme: '这个卡卡果果没啥东西。',
+        close: '小橘是真的骚。'
       }
     },
     '@vuepress/pwa':  {
@@ -40,9 +40,9 @@ module.exports = {
     "dynamic-title":
          {
             showIcon: "/favicon.ico",
-            showText: "(/≧▽≦/)咦！又好了！",
+            showText: "~(˘▾˘~)咦！我又好了！",
             hideIcon: "/failure.ico",
-            hideText: "(●—●)喔哟，崩溃啦！",
+            hideText: "大兄弟快回来我崩了(#ﾟДﾟ)",
             recoverTime: 2000
          }
 }

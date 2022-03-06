@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 我是小李浩
-tagline: 我是可爱的小李浩，我觉得昆昆很可爱
+heroText: 心上青梅
+tagline: 情,心上青梅,年老仍记年少涩。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

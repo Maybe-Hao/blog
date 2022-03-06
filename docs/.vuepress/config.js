@@ -1,6 +1,6 @@
 const pluginsConf = require('./config/pluginsConf')
 module.exports = {
-  "title": "可可爱爱浩宝宝",
+  "title": "心上青梅",
   "description": "",
   "head": [
     [
@@ -118,7 +118,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "",
     "authorAvatar": '/assets/avatar/酥皮.jpg',
-    "record": "xxxx",
+    "record": "Galaxy-Hao",
     "startYear": "2017"
   },
   "markdown": {
