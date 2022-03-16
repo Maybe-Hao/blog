@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "0139ec8d92bb242bcfe5e22fdfaadd6e"
+    "revision": "4694a13e6cf9ffd89242fc02f74bb850"
   },
   {
     "url": "assets/avatar/脸红可爱小女孩 思考 好看动漫女孩4k壁纸3840x2160_彼岸图网.jpg",
@@ -542,6 +542,334 @@ self.__precacheManifest = [
     "revision": "46284ce2effe4a3ee7a4c0bed7c8b625"
   },
   {
+    "url": "assets/img/image-20220305163517093.png",
+    "revision": "0bee26809073a028b2bb01d923ab1102"
+  },
+  {
+    "url": "assets/img/image-20220307104401420.png",
+    "revision": "936f49484a7796e1a65867417660bc70"
+  },
+  {
+    "url": "assets/img/image-20220307111520340.png",
+    "revision": "3d716bf995d50fec39205a2c99c869eb"
+  },
+  {
+    "url": "assets/img/image-20220307192900209.png",
+    "revision": "e89f6afa36af0a03a5c55bf05471216d"
+  },
+  {
+    "url": "assets/img/image-20220307192903450.png",
+    "revision": "e89f6afa36af0a03a5c55bf05471216d"
+  },
+  {
+    "url": "assets/img/image-20220307192922263.png",
+    "revision": "4bc7b1dbd0820e312c35752af3df84a6"
+  },
+  {
+    "url": "assets/img/image-20220307193916858.png",
+    "revision": "0556728e7d163851217832c400bedc81"
+  },
+  {
+    "url": "assets/img/image-20220308113224961.png",
+    "revision": "ec535a6df61742d2184fb2fb261c1c8a"
+  },
+  {
+    "url": "assets/img/image-20220311004018128.png",
+    "revision": "a4ef422dbd5712a1f9161fd040f2cab0"
+  },
+  {
+    "url": "assets/img/image-20220311170705987.png",
+    "revision": "9924df58c14115926f2a77d6832fff48"
+  },
+  {
+    "url": "assets/img/image-20220312102015204.png",
+    "revision": "a653a42ec7e0e2feebdc7184f0072ac1"
+  },
+  {
+    "url": "assets/img/image-20220312104820521.png",
+    "revision": "eeda88a221da0d09205eba6ba91bf87e"
+  },
+  {
+    "url": "assets/img/image-20220312111930309.png",
+    "revision": "fdaa8fb041eb74e8b33a091e17874294"
+  },
+  {
+    "url": "assets/img/image-20220312112202770.png",
+    "revision": "72a98752000efa308fe64b34c3eca47d"
+  },
+  {
+    "url": "assets/img/image-20220313151619095.png",
+    "revision": "82a651fc96e612580c279b27bb758401"
+  },
+  {
+    "url": "assets/img/image-20220313164034857.png",
+    "revision": "358753ac515f00196c2aeea3520f13cb"
+  },
+  {
+    "url": "assets/img/image-20220313165144172.png",
+    "revision": "009813003c53d85b9e10fde758949733"
+  },
+  {
+    "url": "assets/img/image-20220313171350268.png",
+    "revision": "dc10e81eafa6f17bcb3298e739f1b56d"
+  },
+  {
+    "url": "assets/img/image-20220313171526933.png",
+    "revision": "386d806beb8f740a76ebcc88e0f61e01"
+  },
+  {
+    "url": "assets/img/image-20220313171553287.png",
+    "revision": "3f6cec8603f9265bf30da18441575094"
+  },
+  {
+    "url": "assets/img/image-20220313172109307.png",
+    "revision": "830d1210d8a21be7312323345b962a34"
+  },
+  {
+    "url": "assets/img/image-20220313172202128.png",
+    "revision": "997a58b25969c7282a3948e0045891b2"
+  },
+  {
+    "url": "assets/img/image-20220313172239742.png",
+    "revision": "15bbf7b13a34b68f54fd1e72f14baca6"
+  },
+  {
+    "url": "assets/img/image-20220313172246190.png",
+    "revision": "15bbf7b13a34b68f54fd1e72f14baca6"
+  },
+  {
+    "url": "assets/img/image-20220313172713744.png",
+    "revision": "e1642c5d586c92f5eb1cf27c52002ff4"
+  },
+  {
+    "url": "assets/img/image-20220313173237009.png",
+    "revision": "bc1be616826e9dc53a4a1956a8630a07"
+  },
+  {
+    "url": "assets/img/image-20220313173529309-16471641922011.png",
+    "revision": "54b5888d4a796cd1e0f6bf716f97b04b"
+  },
+  {
+    "url": "assets/img/image-20220313173529309.png",
+    "revision": "54b5888d4a796cd1e0f6bf716f97b04b"
+  },
+  {
+    "url": "assets/img/image-20220313175737456.png",
+    "revision": "94c0b0ebf39edb8bdcad00ec73949d31"
+  },
+  {
+    "url": "assets/img/image-20220313175922780.png",
+    "revision": "26a1932ed095d76411aba62fb255de6b"
+  },
+  {
+    "url": "assets/img/image-20220313181255259.png",
+    "revision": "14935bed3a195c511a4a964071a39e67"
+  },
+  {
+    "url": "assets/img/image-20220313211723685.png",
+    "revision": "68c3b548901fa9ddb4ac73670e6a7da6"
+  },
+  {
+    "url": "assets/img/image-20220313211738587.png",
+    "revision": "68c3b548901fa9ddb4ac73670e6a7da6"
+  },
+  {
+    "url": "assets/img/image-20220314003512399.png",
+    "revision": "436ee102cc535481c58d7fecf6dfe06c"
+  },
+  {
+    "url": "assets/img/image-20220314003653988.png",
+    "revision": "7453fbbdeb0a2185c88f20753f8e42a8"
+  },
+  {
+    "url": "assets/img/image-20220314003801052.png",
+    "revision": "698b151348a9a15e2f9a6e785ee5905e"
+  },
+  {
+    "url": "assets/img/image-20220314004302987.png",
+    "revision": "f221474bcd97bbe030e658c1e84d70ed"
+  },
+  {
+    "url": "assets/img/image-20220314100500411.png",
+    "revision": "d7ec69733eff3cd584ad73891dc28fee"
+  },
+  {
+    "url": "assets/img/image-20220314101204495.png",
+    "revision": "1f5a4a0ea419a31b213d42e8f20ade85"
+  },
+  {
+    "url": "assets/img/image-20220314101215091.png",
+    "revision": "1f5a4a0ea419a31b213d42e8f20ade85"
+  },
+  {
+    "url": "assets/img/image-20220314101219317.png",
+    "revision": "1f5a4a0ea419a31b213d42e8f20ade85"
+  },
+  {
+    "url": "assets/img/image-20220314101602516.png",
+    "revision": "09a9ced779eafe6b94bf363bd4e5c1b4"
+  },
+  {
+    "url": "assets/img/image-20220314105406645.png",
+    "revision": "b5fd3cf89f5bac20ea5a4176583bbec4"
+  },
+  {
+    "url": "assets/img/image-20220314110344291.png",
+    "revision": "9b22f752b07385a418039a2468aca0f2"
+  },
+  {
+    "url": "assets/img/image-20220314111257555.png",
+    "revision": "c5a70cc5434ad76686b46891e8eea5d6"
+  },
+  {
+    "url": "assets/img/image-20220314111715129.png",
+    "revision": "f18d87b65afbbbc3c8998b59b3e3fc56"
+  },
+  {
+    "url": "assets/img/image-20220314111744916.png",
+    "revision": "02854b94d2c2bd2b900a7c3db31bf218"
+  },
+  {
+    "url": "assets/img/image-20220314112147916.png",
+    "revision": "72010a2c9441b1077ee6a69e915bbc1d"
+  },
+  {
+    "url": "assets/img/image-20220314114631074.png",
+    "revision": "97b7e055ef63c6e8d8b698a571399a1c"
+  },
+  {
+    "url": "assets/img/image-20220314114818669.png",
+    "revision": "4086aad73c7ff3554571a30bb58f77d8"
+  },
+  {
+    "url": "assets/img/image-20220314115227178.png",
+    "revision": "d65ff88797249b03558e44ab22647c50"
+  },
+  {
+    "url": "assets/img/image-20220314150253681.png",
+    "revision": "3a2e3dd641490dbebd69ac757f872ed8"
+  },
+  {
+    "url": "assets/img/image-20220314150638240.png",
+    "revision": "4c3c3b3e83aa66b2c6c196534d0b4c88"
+  },
+  {
+    "url": "assets/img/image-20220314151311390.png",
+    "revision": "83108f37f578be706f944777259edb40"
+  },
+  {
+    "url": "assets/img/image-20220314151318974.png",
+    "revision": "3935955e83e976a187410e1682386562"
+  },
+  {
+    "url": "assets/img/image-20220314225151843.png",
+    "revision": "be70d0d47ef833c7eefebd1a655d9aad"
+  },
+  {
+    "url": "assets/img/image-20220314225234189.png",
+    "revision": "432d926c0a2cfccdf4d2e04b34b11c4c"
+  },
+  {
+    "url": "assets/img/image-20220315103651946.png",
+    "revision": "ea28db719ca77cab9909e5d1032f6403"
+  },
+  {
+    "url": "assets/img/image-20220315104159987.png",
+    "revision": "5ae6c2e3bf6e2efa819dd72bdbed8152"
+  },
+  {
+    "url": "assets/img/image-20220315105401371.png",
+    "revision": "e6a8fbd42d26af472a26124ac169bfa8"
+  },
+  {
+    "url": "assets/img/image-20220315112147079.png",
+    "revision": "2e8dcafc39a06604844038dae63b10a8"
+  },
+  {
+    "url": "assets/img/image-20220315112335211.png",
+    "revision": "ad0b246f986706cab9f64e23a0f0f46e"
+  },
+  {
+    "url": "assets/img/image-20220315113037436.png",
+    "revision": "67b4622be694b963aca60d77d18b6975"
+  },
+  {
+    "url": "assets/img/image-20220315191118988.png",
+    "revision": "8941b4b67e31965bf71f9ab92ca8608b"
+  },
+  {
+    "url": "assets/img/image-20220315195223385.png",
+    "revision": "083eba90ac17275f685742ee13ca0462"
+  },
+  {
+    "url": "assets/img/image-20220315195255547.png",
+    "revision": "6ad73dbab7b77a496b44ca264e82680b"
+  },
+  {
+    "url": "assets/img/image-20220315195324655.png",
+    "revision": "9f6d52d2d9a586389c1d031d4e517bb5"
+  },
+  {
+    "url": "assets/img/image-20220315195529854.png",
+    "revision": "6e66326b3cb9334890b40567849e41bf"
+  },
+  {
+    "url": "assets/img/image-20220315195620014.png",
+    "revision": "680965a48fe2f27961e6dd1a843be548"
+  },
+  {
+    "url": "assets/img/image-20220315204850208.png",
+    "revision": "b4270d0e4317a387d17d9c985d8191f1"
+  },
+  {
+    "url": "assets/img/image-20220316000037585.png",
+    "revision": "493e233bbe9559999de77545b863c4cb"
+  },
+  {
+    "url": "assets/img/image-20220316000612868.png",
+    "revision": "b84146abf22eeed97210a0f61351d168"
+  },
+  {
+    "url": "assets/img/image-20220316002246275.png",
+    "revision": "7e61226e48d21301dd20ca043c30c8a1"
+  },
+  {
+    "url": "assets/img/image-20220316092108040.png",
+    "revision": "cc3f6531a0312e5dc48ac068fd347b5a"
+  },
+  {
+    "url": "assets/img/image-20220316093351217.png",
+    "revision": "4bc3014c7aaa4e2aa163835db33bfaef"
+  },
+  {
+    "url": "assets/img/image-20220316093422945.png",
+    "revision": "90770f50950f6de37af382fcdfa2ec3b"
+  },
+  {
+    "url": "assets/img/image-20220316093447297.png",
+    "revision": "52ba9f02fc9f7955dec692c8a9805078"
+  },
+  {
+    "url": "assets/img/image-20220316093515633.png",
+    "revision": "62bd07af423b00880e9f5928280a8574"
+  },
+  {
+    "url": "assets/img/image-20220316094903932.png",
+    "revision": "d043a7d2ad3828f8b9e6d4a263dd76fa"
+  },
+  {
+    "url": "assets/img/image-20220316152209893.png",
+    "revision": "b7bcf15aef6c8ac248efaaa9a771fd77"
+  },
+  {
+    "url": "assets/img/image-20220316152345105.png",
+    "revision": "f9689d827b3bb327a648e9c6844587d5"
+  },
+  {
+    "url": "assets/img/image-20220316152517736.png",
+    "revision": "c9e14bd14bbe4ecbb7b53b9230751d0b"
+  },
+  {
     "url": "assets/img/vuepress/actions.png",
     "revision": "5a3d8fa92949c1b0bca257579e5a82ae"
   },
@@ -638,8 +966,8 @@ self.__precacheManifest = [
     "revision": "256e0390a04acfadaa1bd018dacae804"
   },
   {
-    "url": "assets/js/10.3f5f5113.js",
-    "revision": "9707fd166c75422c03e438ad802d7bc0"
+    "url": "assets/js/10.88f51bdb.js",
+    "revision": "fc8988acc226ae1bd20568f81592e8cc"
   },
   {
     "url": "assets/js/11.5f679650.js",
@@ -686,28 +1014,32 @@ self.__precacheManifest = [
     "revision": "f91da592e0d5b5ed0a497dfe7a94e6b7"
   },
   {
-    "url": "assets/js/22.246f359a.js",
-    "revision": "622837a97fc3025c2d8ceec53969d754"
+    "url": "assets/js/22.e80f57a2.js",
+    "revision": "4e4a7fabc1ad7d63b6df94079a25e399"
   },
   {
-    "url": "assets/js/23.a2794a03.js",
-    "revision": "c2351dfaa95c9dd891107203557c4bdf"
+    "url": "assets/js/23.52810d9f.js",
+    "revision": "2e0621a7298d52b1cd92427969a10e1d"
   },
   {
-    "url": "assets/js/24.e982fd64.js",
-    "revision": "1905e02df385e7f5f32592dedadf1c61"
+    "url": "assets/js/24.6906a513.js",
+    "revision": "fb3e878fcf2857525b5a158ee058d326"
   },
   {
-    "url": "assets/js/25.30e72edf.js",
-    "revision": "d4268d5a4fabf2166307b1db4c53165e"
+    "url": "assets/js/25.8819edf0.js",
+    "revision": "5e0c02f856f9f83e52fa581bac17c392"
   },
   {
-    "url": "assets/js/26.f2a9840a.js",
-    "revision": "847194257bb4a1936e6f1150371b8de8"
+    "url": "assets/js/26.1c76b4f9.js",
+    "revision": "982dfaa4c47129cbfc35943f31c851fa"
   },
   {
-    "url": "assets/js/27.91217672.js",
-    "revision": "d4e0886b1397e1c86046758c7306f2b9"
+    "url": "assets/js/27.171f24e5.js",
+    "revision": "7b559499e3c0b38b567db177fd8e6bac"
+  },
+  {
+    "url": "assets/js/28.84e5ecdd.js",
+    "revision": "db9bbe610ceb09c92c710add3fad4c54"
   },
   {
     "url": "assets/js/3.23e2a2eb.js",
@@ -738,8 +1070,8 @@ self.__precacheManifest = [
     "revision": "5b1fda13a6bb160a6edec5f9c47aa732"
   },
   {
-    "url": "assets/js/app.1f6168f6.js",
-    "revision": "c156472e31cadfedb4a08adcb0d190ad"
+    "url": "assets/js/app.00f453be.js",
+    "revision": "2d2df80ae2547e1694d7a1414746bcb6"
   },
   {
     "url": "avatar.png",
@@ -747,79 +1079,87 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/other/guide.html",
-    "revision": "1a7bb92d4ea0df13f7825b23a03b5cf1"
+    "revision": "1a2b21844d6e1eb2a6fb91647c2d088f"
   },
   {
     "url": "blogs/前端/front.html",
-    "revision": "e1719639f92f359d165d29f9f3943421"
+    "revision": "d44b964b47b38749c191ac1c24c18438"
   },
   {
     "url": "blogs/前端/Nodejs安装问题心得.html",
-    "revision": "89e8d09257bc3673754445d8a2a47220"
+    "revision": "04d3815c7c7bdb732e943ae32515a816"
   },
   {
     "url": "blogs/前端/Vue.html",
-    "revision": "ff2a61cbc060608c4aac069f9a504a08"
+    "revision": "925269fb5f82cc5c6f7d5c074f128462"
   },
   {
     "url": "blogs/前端/vuepress.html",
-    "revision": "716a7b889d47ca911374ae28b1dc8ec9"
+    "revision": "d6b9cc69a6129b49b53e53ead865abac"
   },
   {
     "url": "blogs/后端/Spring系列/Redis.html",
-    "revision": "43c8194fa9918fef7ae330a4809b2602"
+    "revision": "4a7faba1dce5d043a4e327c59766df04"
   },
   {
     "url": "blogs/后端/Spring系列/Spring.html",
-    "revision": "06ab6e60b643ba3d010142397ca107cd"
+    "revision": "58b74c34298d9224b48d7ed4eed2d063"
   },
   {
     "url": "blogs/后端/Spring系列/SpringBoot.html",
-    "revision": "879d9c97074898bac03008e865d2fe61"
+    "revision": "60e762ebe0356ae352b3195ab0be9938"
   },
   {
     "url": "blogs/后端/Spring系列/SpringMVC.html",
-    "revision": "3f12eabb509ac7cd045a0175979b1e60"
+    "revision": "b934bc7f65311e87d2cd7a9be27a3e83"
   },
   {
     "url": "blogs/后端/Spring系列/知识点.html",
-    "revision": "6f7a1f04c196cde2ec4993a63cf18bc8"
+    "revision": "a5ff0e2db676f3eb9231a5c1d0b6938d"
+  },
+  {
+    "url": "blogs/安装/R语言安装.html",
+    "revision": "0863fd7d2ffe95a0d783b6dab60f93f0"
   },
   {
     "url": "blogs/算法以及数据结构/LeetCode笔记本.html",
-    "revision": "e50ba23f35c4bab6be591cf6989e2585"
+    "revision": "9574408ec7ab533c5d9bb3f6784a2c6b"
   },
   {
     "url": "categories/index.html",
-    "revision": "dd4a99d7a532149f2112044e99090906"
+    "revision": "e227ab18a7ef88401e4f843e9188ac4c"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "810284831c5342b8b67abe2048eafa9a"
+    "revision": "286e79fecec09cad93d3ab95afa9067a"
   },
   {
     "url": "categories/后端/index.html",
-    "revision": "dca66b17d4ce8bf3e1ea465fa66d267f"
+    "revision": "7169de5b38816c2df0837c339f9c99bc"
+  },
+  {
+    "url": "categories/安装/index.html",
+    "revision": "f48c77677a7e1b3192ce6af3a34c1be2"
   },
   {
     "url": "categories/算法/index.html",
-    "revision": "6894501a48aa82b7fcbf47a8705bd5c4"
+    "revision": "95c079447bc6fd6f08acaec0f3824dc4"
   },
   {
     "url": "docs/theme-reco/api.html",
-    "revision": "8555948fe6f19edd74074b27169cdece"
+    "revision": "f63e411efb37118de67ceeb2253138ed"
   },
   {
     "url": "docs/theme-reco/index.html",
-    "revision": "e5e36275680ff246fc09ba327ec9df9f"
+    "revision": "6bb5f0d6e2249873fc859bcc0bccc631"
   },
   {
     "url": "docs/theme-reco/plugin.html",
-    "revision": "d6672f99ce3a197342e9e1ff28ea268b"
+    "revision": "76636bd8ec1470ac75a75462651c9368"
   },
   {
     "url": "docs/theme-reco/theme.html",
-    "revision": "757aeb54908b4f5482cdcd0edb3131fe"
+    "revision": "b5be7e14b3c78e9a3fd9a1401eb2433b"
   },
   {
     "url": "hero.png",
@@ -843,7 +1183,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2b3ddfb4054eea4e8d4327abdc6a6040"
+    "revision": "dd4294aafd38bbb38b8cd1ecdc04c58a"
   },
   {
     "url": "logo.png",
@@ -851,55 +1191,59 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/algorithm/index.html",
-    "revision": "bd84066eb40025fb51c76970261d71b8"
+    "revision": "1368930f1968af3f92ce97975ad933d6"
   },
   {
     "url": "tag/BSX/index.html",
-    "revision": "3a4c65b98d289b5e0acf06342f170044"
+    "revision": "da89c3e2959ebec7c360611987f0239b"
   },
   {
     "url": "tag/index.html",
-    "revision": "cd6e57dfbf27ce991c71e7580208c3b7"
+    "revision": "1dfcbe43eecec6adb131d88007932611"
   },
   {
     "url": "tag/LeetCode/index.html",
-    "revision": "067cb1274277f0b80e72a827a1bd985f"
+    "revision": "0605f6b8bad619ea359d1a4719a29c0e"
   },
   {
     "url": "tag/Nodejs/index.html",
-    "revision": "0e81dbf21466e10fd024c0b9079864f5"
+    "revision": "eaa9cc9e48b8d87bde9b869f42388162"
+  },
+  {
+    "url": "tag/R/index.html",
+    "revision": "222a9b1a22ce845650f290bc496115dc"
   },
   {
     "url": "tag/rearend/index.html",
-    "revision": "c9e9c94ab58ec2c638709ba2dcbb8d02"
+    "revision": "3049c0978468068e8ed152d054b88d77"
   },
   {
     "url": "tag/Redis/index.html",
-    "revision": "4b1a24350d00a99b4ea831a76e3a0039"
+    "revision": "55e63b03cba0168cda170a2d65d4594f"
   },
   {
     "url": "tag/Spring/index.html",
-    "revision": "d8b56076f57b82a78eece62d0c9f95ff"
+    "revision": "d1f18b7f433870ddb60e58a591d3c220"
   },
   {
     "url": "tag/SpringBoot/index.html",
-    "revision": "c52a5d94a6a67da6669febea9b68530e"
+    "revision": "d35b4fac7752262d28a926f3453b9497"
   },
   {
     "url": "tag/SpringMVC/index.html",
-    "revision": "95060ea53c489e2206db55e307faad7f"
+    "revision": "19d7768ac4932c399fb845345da97af7"
   },
   {
     "url": "tag/Vue/index.html",
-    "revision": "494b051df3cb0e0d572b8df9c6844712"
+    "revision": "8f6c38ea1c32e4f2430f0a2d47067fd7"
   },
   {
     "url": "tag/Vuepress/index.html",
-    "revision": "7beee33fae91812275c1cb1446948548"
+    "revision": "0766a2c69878d79ecb3a366f5f206b6d"
   },
   {
     "url": "timeline/index.html",
-    "revision": "87913102ce2ab45ae90c2af9723ed895"
+    "revision": "2da83b0878525b6b304cc348900b6bf4"
   },
   {
     "url": "酥皮.jpg",
