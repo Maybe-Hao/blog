@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 心上青梅
-tagline: 情,心上青梅,年老仍记年少涩。
+tagline: 但行好事，莫问前程。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
