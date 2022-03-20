@@ -72,7 +72,7 @@ module.exports = {
         "plugin",
         "api"
       ],
-      "/blogs/后端/Spring系列/": [
+      "/blogs/后端/": [
         "知识点",
         "Redis",
         "Spring",
