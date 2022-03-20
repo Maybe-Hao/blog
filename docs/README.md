@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 心上青梅
-tagline: 但行好事，莫问前程。
+tagline: 君子言行，温其如玉。
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
