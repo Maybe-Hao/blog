@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "e677623d104b551ee3c9882d7226f399"
+    "revision": "9239ab10d313d32e57f6043baa088ce6"
   },
   {
     "url": "assets/avatar/脸红可爱小女孩 思考 好看动漫女孩4k壁纸3840x2160_彼岸图网.jpg",
@@ -1138,8 +1138,8 @@ self.__precacheManifest = [
     "revision": "5b1fda13a6bb160a6edec5f9c47aa732"
   },
   {
-    "url": "assets/js/app.f6b88d68.js",
-    "revision": "7fa246abc79cdffd89d1a3eb76bc7984"
+    "url": "assets/js/app.90f28baf.js",
+    "revision": "ad87dc8e09fca7897fdf349dd2d346fe"
   },
   {
     "url": "avatar.png",
@@ -1147,99 +1147,99 @@ self.__precacheManifest = [
   },
   {
     "url": "blogs/other/guide.html",
-    "revision": "ad1a3fe236c3896f48328030c2859fa8"
+    "revision": "9a05c86c28326fa1d00a638ae20289c7"
   },
   {
     "url": "blogs/前端/front.html",
-    "revision": "c9d26c6952b7ac17ab6816618de61001"
+    "revision": "b2bc9f5711ee753948f26f8a63e0805e"
   },
   {
     "url": "blogs/前端/Nodejs安装问题心得.html",
-    "revision": "d088df0a2d08157ed3b7d28c3b21ec2b"
+    "revision": "fca5cb0637cb05184d69a6b0fd2e475f"
   },
   {
     "url": "blogs/前端/Vue.html",
-    "revision": "ff2e2641822a3f45626fb39955bc2da8"
+    "revision": "76f1aa24b9c48d28bbaa84c0b693689b"
   },
   {
     "url": "blogs/前端/vuepress.html",
-    "revision": "114d81e16f35e031b865f524db583e39"
+    "revision": "3f527e8b7df09fb773d75761897ca9a3"
   },
   {
     "url": "blogs/后端/Docker.html",
-    "revision": "4eea02eeff9f9d7c58df17b5c8549a67"
+    "revision": "4f1529e5a5a4c6eb9f70de4c3d9b3786"
   },
   {
     "url": "blogs/后端/Java基础知识.html",
-    "revision": "a103798d7aaf21b65fe448485a6bf168"
+    "revision": "be6af28ace25b82df1dd9ae94f0de52b"
   },
   {
     "url": "blogs/后端/Redis.html",
-    "revision": "ddd876ddf74d58f2808838e9387107a2"
+    "revision": "3bb7dcdf31105390b0d493d23a25a247"
   },
   {
     "url": "blogs/后端/Spring.html",
-    "revision": "d5cf64b447aa60f720ffb9cb2ce406e6"
+    "revision": "5c39b1cae4afda52cb0e5a225c66761e"
   },
   {
     "url": "blogs/后端/SpringBoot.html",
-    "revision": "6c4b9a3bcb45a1e6768f47ac2f6cb1a0"
+    "revision": "04c66def669228a6983c2f4a40dee5e1"
   },
   {
     "url": "blogs/后端/SpringMVC.html",
-    "revision": "a9968b92567f6ddbd6c0a07ec5955cf6"
+    "revision": "bcdcdfe39f51c1660def3d40b1d2570e"
   },
   {
     "url": "blogs/后端/Swagger.html",
-    "revision": "81aa94e98e89e363f544a256f58a8047"
+    "revision": "a0e5c6f0b8bab0e340ff67e664e55495"
   },
   {
     "url": "blogs/后端/知识点.html",
-    "revision": "dbaaa32495e989927eb173d8be29ad35"
+    "revision": "c895b3002bee1e3c30967a6cab3201d3"
   },
   {
     "url": "blogs/安装/R语言安装.html",
-    "revision": "59808c8f4436200f881e8b68c1c4452b"
+    "revision": "10d4a46d8cbed02370e2f073ae74f50d"
   },
   {
     "url": "blogs/算法以及数据结构/LeetCode笔记本.html",
-    "revision": "85e78797d02f01b298f67230ec9ad9c5"
+    "revision": "7b68c12b693a79551e8a5e2065cbe4da"
   },
   {
     "url": "categories/index.html",
-    "revision": "ca5a3d617479597701f7c4ccbc4e8d7e"
+    "revision": "be627988b71e459f342be1b04503f512"
   },
   {
     "url": "categories/前端/index.html",
-    "revision": "d53be8a0af533693953061d5fc7ab8d8"
+    "revision": "c15ac640fd6f9780ed9a156b435ed88e"
   },
   {
     "url": "categories/后端/index.html",
-    "revision": "038a9c2e6e6294cbe0fe72e1d64594dc"
+    "revision": "4de1cf7d9c2dd67f7be0c31fca32e9e4"
   },
   {
     "url": "categories/安装/index.html",
-    "revision": "b8035b54c74f940e09359471edd436af"
+    "revision": "c39af3090e20d99f82ad366af8cd80f4"
   },
   {
     "url": "categories/算法/index.html",
-    "revision": "9c075bb8e5f57d37687a3d91ad1fb446"
+    "revision": "6b0e7e4d1fc9bdf96294d38db5f71761"
   },
   {
     "url": "docs/theme-reco/api.html",
-    "revision": "f110e9ff12f86e6be3fa7ee12b6e57f5"
+    "revision": "7ac9afafba304faae071f3036936888b"
   },
   {
     "url": "docs/theme-reco/index.html",
-    "revision": "5f707c5f2814c86d953c0016b949b2cb"
+    "revision": "cc834b9ed486bda3641ca388122f4cce"
   },
   {
     "url": "docs/theme-reco/plugin.html",
-    "revision": "a6e091e944534776f232aea92a058e29"
+    "revision": "dd3b441be82095a9df9f333f2aa83fa9"
   },
   {
     "url": "docs/theme-reco/theme.html",
-    "revision": "b86668d4d8e3ab4023cc77aa33e2ee52"
+    "revision": "6d545611f9388ec99bf884a828bb9e3d"
   },
   {
     "url": "hero.png",
@@ -1263,7 +1263,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a54d50ba1732d3db3d10a094d81163b6"
+    "revision": "db7ba0fe80c1f79bd42a8980c9c08848"
   },
   {
     "url": "logo.png",
@@ -1271,71 +1271,71 @@ self.__precacheManifest = [
   },
   {
     "url": "tag/algorithm/index.html",
-    "revision": "7d30d91e59933462c5f27705557c998a"
+    "revision": "7902b8e6a78c0dd1fafbb71619c4d4be"
   },
   {
     "url": "tag/BSX/index.html",
-    "revision": "4c26a60e6b8553bf8fc96c3f82340b6d"
+    "revision": "bad90e261310b97cb73c3c1092ca9ba5"
   },
   {
     "url": "tag/Docker/index.html",
-    "revision": "05b8de72522491a129734400fef119a8"
+    "revision": "2bfea2ffd44ee73768030460ae10f777"
   },
   {
     "url": "tag/index.html",
-    "revision": "0aaa34b1e031a621b62d63921ee107f7"
+    "revision": "1d8baf56663404c011813f76bcaf8ad8"
   },
   {
     "url": "tag/Java/index.html",
-    "revision": "2cbaaae85420b608391945eefa7d24a0"
+    "revision": "d4eeafd080b65d775846f7d68e8a3883"
   },
   {
     "url": "tag/LeetCode/index.html",
-    "revision": "faeb470b891074ba3679c46cf3e131e3"
+    "revision": "27d3f40b9e66e509a661c17b6bb4644e"
   },
   {
     "url": "tag/Nodejs/index.html",
-    "revision": "ce917339349dba754d13a25c0fbd3e65"
+    "revision": "82525bf4079f54689665a1c0ddb5a15c"
   },
   {
     "url": "tag/R/index.html",
-    "revision": "bb6af72e337bcc4809dadbfd5280e7e7"
+    "revision": "9784f7d03cc8b20bd082a4eba3e26bb5"
   },
   {
     "url": "tag/rearend/index.html",
-    "revision": "b70f5bb2fb7674f26bf247dfca0594b3"
+    "revision": "242e59c973470bd4724c7573006e2229"
   },
   {
     "url": "tag/Redis/index.html",
-    "revision": "092f246a499907707f48b0699ff8a374"
+    "revision": "74b39669c55853d82ce5402ddaff7bea"
   },
   {
     "url": "tag/Spring/index.html",
-    "revision": "602d5978e1daab5e2945175303f94e3e"
+    "revision": "aaeba2e9891d312fd3f56b9694f4ad59"
   },
   {
     "url": "tag/SpringBoot/index.html",
-    "revision": "70bb2b0769eb5fdb5e1bb6c229141adf"
+    "revision": "89c8b4a44f3409f241ac1815013ae483"
   },
   {
     "url": "tag/SpringMVC/index.html",
-    "revision": "61e41a220b2519b2c2ef23ccb302ad6a"
+    "revision": "640f01693570ac51fbd0874ac01fd14c"
   },
   {
     "url": "tag/Swagger/index.html",
-    "revision": "0b44c843b0b5d6c61547865118ed4632"
+    "revision": "d23031b4d143572749c5a3418e9c855a"
   },
   {
     "url": "tag/Vue/index.html",
-    "revision": "629f0bc43465b064f5b031a25ad4aa3a"
+    "revision": "fa20124e216b1d918811d8fe37da0fe2"
   },
   {
     "url": "tag/Vuepress/index.html",
-    "revision": "449e0d0a5c554d283366d2919e5660e7"
+    "revision": "aabf77db798f609880e468dc5b1b0a66"
   },
   {
     "url": "timeline/index.html",
-    "revision": "44b29619a02bbeb85fda40f917b07187"
+    "revision": "5eaafcb475ea9e6ff01a39c63113220d"
   },
   {
     "url": "酥皮.jpg",
