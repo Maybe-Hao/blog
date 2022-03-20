@@ -77,7 +77,10 @@ module.exports = {
         "Redis",
         "Spring",
         "SpringBoot",
-        "SpringMVC"
+        "SpringMVC",
+        "Docker",
+        "Java基础知识",
+        "Swagger"
       ],
       "/blogs/前端/": [
         "front",
