@@ -119,9 +119,11 @@ module.exports = {
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "",
+    "author": "木子水告",
     "authorAvatar": '/assets/avatar/酥皮.jpg',
-    "record": "Galaxy-Hao",
+    "record": `蜀ICP备2022003892号`,
+    "recordLink": 'https://beian.miit.gov.cn/',
+    // "record": "Galaxy-Hao",
     "startYear": "2020"
   },
   "markdown": {
