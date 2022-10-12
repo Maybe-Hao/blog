@@ -122,7 +122,7 @@ module.exports = {
     "author": "",
     "authorAvatar": '/assets/avatar/酥皮.jpg',
     "record": "Galaxy-Hao",
-    "startYear": "2017"
+    "startYear": "2020"
   },
   "markdown": {
     "lineNumbers": true

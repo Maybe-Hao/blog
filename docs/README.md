@@ -16,6 +16,12 @@ bgImageStyle: {
 }
 bgImage: '/assets/img/bg/雪山.png'
 isShowTitleInHome: false
+frontmatter:
+- record: 蜀ICP备2022003892号-1
+- recordLink：https://beian.aliyun.com/
+- cyberSecurityRecord: 蜀ICP备2022003892号-1
+- cyberSecurityLink：https://beian.miit.gov.cn/
+- startYear：2021
 actionText: Guide
 actionLink: /views/other/guide
 features:
