@@ -22,8 +22,8 @@ frontmatter:
 - cyberSecurityRecord: 蜀ICP备2022003892号-1
 - cyberSecurityLink：https://beian.miit.gov.cn/
 - startYear：2021
-actionText: Guide
-actionLink: /views/other/guide
+#actionText: Guide
+#actionLink: /views/other/guide
 features:
 - title: Yesterday
   details: 开发一款看着开心、写着顺手的 vuepress 博客主题
